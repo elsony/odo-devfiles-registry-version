@@ -1,6 +1,6 @@
 schemaVersion: 2.0.0
 metadata:
-  name: nodejs-101
+  name: nodejs-1.0.1
   version: 1.0.1
 projects:
   - name: nodejs-starter
