@@ -13,8 +13,8 @@ components:
       memoryLimit: 1024Mi
       mountSources: true
       endpoints:
-        - name: http-3001
-          targetPort: 3001
+        - name: http-3000
+          targetPort: 3000
           configuration:
             protocol: tcp
             scheme: http

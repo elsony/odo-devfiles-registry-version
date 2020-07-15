@@ -8,7 +8,7 @@
       "Express",
       "ubi8"
     ],
-    "projectType": "nodejs-1.0.0",
+    "projectType": "nodejs",
     "language": "nodejs",
     "links": {
       "self": "/devfiles/nodejs/1.0.0/devfile.yaml"

@@ -1,6 +1,6 @@
-name: nodejs
-displayName: NodeJS Runtime
-description: Stack with NodeJS 12
+name: nodejs-1.0.0
+displayName: NodeJS Runtime 1
+description: Stack with NodeJS 12 test 1
 tags: ["NodeJS", "Express", "ubi8"]
 projectType: "nodejs"
 language: "nodejs"
