@@ -1,6 +1,6 @@
 [
   {
-    "name": "nodejs-1.0.0",
+    "name": "nodejs-100",
     "displayName": "NodeJS Runtime 1",
     "description": "Stack with NodeJS 12 test 1",
     "tags": [
@@ -8,14 +8,14 @@
       "Express",
       "ubi8"
     ],
-    "projectType": "nodejs",
+    "projectType": "nodejs-100",
     "language": "nodejs",
     "links": {
       "self": "/devfiles/nodejs/1.0.0/devfile.yaml"
     }
   },
   {
-    "name": "nodejs-1.0.1",
+    "name": "nodejs-101",
     "displayName": "NodeJS Runtime 2",
     "description": "Stack with NodeJS 12 test 2",
     "tags": [
@@ -23,7 +23,7 @@
       "Express",
       "ubi8"
     ],
-    "projectType": "nodejs",
+    "projectType": "nodejs-101",
     "language": "nodejs",
     "links": {
       "self": "/devfiles/nodejs/1.0.1/devfile.yaml"
